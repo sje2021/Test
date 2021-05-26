@@ -60,5 +60,6 @@ plot(df$m~df$x,pch=17, col="blue", type="l", xlab="test")
 install.packages("raster",dependencies = TRUE)   
 library(raster)
 install.packages("tidyverse") 
-
+g = "water"
+g
 
